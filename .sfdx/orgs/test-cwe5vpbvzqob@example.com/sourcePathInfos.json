@@ -1,0 +1,1035 @@
+[
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599394294,
+            "changeTime": 1532599394294,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599394294,
+            "changeTime": 1532599394294,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1532709188936,
+            "changeTime": 1532709188936,
+            "contentHash": "2e85c865e9c07878c1204743f252627bb243ecf2"
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599394295,
+            "changeTime": 1532599394295,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 1069,
+            "modifiedTime": 1532599394295,
+            "changeTime": 1532599394295,
+            "contentHash": "4328dbbac10441f331135e71c1a59d341d8985b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599394296,
+            "changeTime": 1532599394296,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599394308,
+            "changeTime": 1532599394308,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1532599394297,
+            "changeTime": 1532599394297,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1532599394299,
+            "changeTime": 1532599394299,
+            "contentHash": "b5362008401bc29d9917b0e76098a5e4bab3afae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1532599394300,
+            "changeTime": 1532599394300,
+            "contentHash": "592726dae7a012945e83644c975feff73df551ff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1532599394301,
+            "changeTime": 1532599394301,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1532599394303,
+            "changeTime": 1532599394303,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1532599394304,
+            "changeTime": 1532599394304,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1532599394305,
+            "changeTime": 1532599394305,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1532599394307,
+            "changeTime": 1532599394307,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1532599394308,
+            "changeTime": 1532599394308,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1532709188972,
+            "changeTime": 1532709188972,
+            "contentHash": "edb70ce1a250ef021ddb494f011552251d9f2ee3"
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 720,
+            "modifiedTime": 1532599394310,
+            "changeTime": 1532599394310,
+            "contentHash": "33d986822097a4cc9b3cc2fd5ee1d6dd2e5577df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599394313,
+            "changeTime": 1532599394313,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18531,
+            "modifiedTime": 1532599394311,
+            "changeTime": 1532599394311,
+            "contentHash": "5fe6409f7088478079c5d07e0b506a71a92b3ec7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4658,
+            "modifiedTime": 1532599394312,
+            "changeTime": 1532599394312,
+            "contentHash": "80efcc593b1324cf525de1e1631bcee69ff1f162",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4658,
+            "modifiedTime": 1532599394312,
+            "changeTime": 1532599394312,
+            "contentHash": "80efcc593b1324cf525de1e1631bcee69ff1f162",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5008,
+            "modifiedTime": 1532599394313,
+            "changeTime": 1532599394313,
+            "contentHash": "6c20e75528a4a510853dada222473ae23da35601",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599394315,
+            "changeTime": 1532599394315,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 310,
+            "modifiedTime": 1532599394315,
+            "changeTime": 1532599394315,
+            "contentHash": "c4c494d2fe7cedcb9d22a0214d92df4225a5d3c5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599673479,
+            "changeTime": 1532599673479,
+            "contentHash": "e578e7e7729ab58a639897e7f7fb88915d383294",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599802733,
+            "changeTime": 1532599802733,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717339,
+            "changeTime": 1532599717339,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717359,
+            "changeTime": 1532599717359,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717350,
+            "changeTime": 1532599717350,
+            "contentHash": "2f23212b50a83c6f1bd3b906c82b2cbaaceee0ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717351,
+            "changeTime": 1532599717351,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1532599717351,
+            "changeTime": 1532599717351,
+            "contentHash": "fc2433a634f223435a01da80934238039f724b21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1532599717351,
+            "changeTime": 1532599717351,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\Storage",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\Storage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717340,
+            "changeTime": 1532599717340,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+            "isDirectory": false,
+            "size": 917,
+            "modifiedTime": 1532599717340,
+            "changeTime": 1532599717340,
+            "contentHash": "6aabf819a1e1b796bfcdd5602e5d72994b00ac1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1532599717341,
+            "changeTime": 1532599717341,
+            "contentHash": "67ed1f5733b1ce65f40dc2cd4dc35a8bd63a6b3c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717346,
+            "changeTime": 1532599717346,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5483,
+            "modifiedTime": 1532599717342,
+            "changeTime": 1532599717342,
+            "contentHash": "2e432c4f45ae25d2ffe0f8550edaa136ce33cd72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1532599717342,
+            "changeTime": 1532599717342,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1532599717343,
+            "changeTime": 1532599717343,
+            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1532599717343,
+            "changeTime": 1532599717343,
+            "contentHash": "1ab870c096696a3c08082e2416ed2b2f4ebbf4d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1021,
+            "modifiedTime": 1532599717344,
+            "changeTime": 1532599717344,
+            "contentHash": "cd1ea0dfa3cf906fdec342699622ed85ed00d1af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1085,
+            "modifiedTime": 1532599717345,
+            "changeTime": 1532599717345,
+            "contentHash": "bf9279ede7dc946bed67264287c14d6108974cf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5924,
+            "modifiedTime": 1532599717346,
+            "changeTime": 1532599717346,
+            "contentHash": "84ba6ce9a3e20fbcb0e9f55545eb1e6d13bee40d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 738,
+            "modifiedTime": 1532599717346,
+            "changeTime": 1532599717346,
+            "contentHash": "d665b7d29b11f2eb8c02b6373c06e47346705312",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717349,
+            "changeTime": 1532599717349,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+            "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1532599717347,
+            "changeTime": 1532599717347,
+            "contentHash": "fae52a427064a301ace9fc689e9cf859b1de43e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1532599717348,
+            "changeTime": 1532599717348,
+            "contentHash": "20374ea20c0da58fb533b70b688c82384c590c03",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1532599717349,
+            "changeTime": 1532599717349,
+            "contentHash": "82df0e7b416e9a9a797701c72b510d71d8909b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 2042,
+            "modifiedTime": 1532599717350,
+            "changeTime": 1532599717350,
+            "contentHash": "74d2133713841f14daa33d3c87fdeb29e09b4ca3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717357,
+            "changeTime": 1532599717357,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1532599717352,
+            "changeTime": 1532599717352,
+            "contentHash": "de1151d4a6d414d95b7bea943be4d2406363ff54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1532599717353,
+            "changeTime": 1532599717353,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 829,
+            "modifiedTime": 1532599717354,
+            "changeTime": 1532599717354,
+            "contentHash": "854a69c44213389336401c045649d80bd0cb59c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1532599717355,
+            "changeTime": 1532599717355,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1532599717356,
+            "changeTime": 1532599717356,
+            "contentHash": "b948c3afe75b12d147b48bd2e22496000622a4ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1532599717356,
+            "changeTime": 1532599717356,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1143,
+            "modifiedTime": 1532599717357,
+            "changeTime": 1532599717357,
+            "contentHash": "648d69af87ee21de3e02c7927702ad1c425a60c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1532599717358,
+            "changeTime": 1532599717358,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717358,
+            "changeTime": 1532599717358,
+            "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1532599717359,
+            "changeTime": 1532599717359,
+            "contentHash": "a0ad435300a759ecf99cdd0add238f95edc395e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532599717361,
+            "changeTime": 1532599717361,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1532599717361,
+            "changeTime": 1532599717361,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1532599717362,
+            "changeTime": 1532599717362,
+            "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3922,
+            "modifiedTime": 1532709188946,
+            "changeTime": 1532709188946,
+            "contentHash": "c9387c58ea8b9fdaf90417c764c8e14415f48c1f"
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1532709188954,
+            "changeTime": 1532709188954,
+            "contentHash": "abbfb672a335fc95f5d57e1f2e15bf66826b0d28"
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1532709188962,
+            "changeTime": 1532709188962,
+            "contentHash": "bf6b3223e81baf11156f574c49b181768fe7c596"
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Account_Record_Page2.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\flexipages\\Account_Record_Page2.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1532709188974,
+            "changeTime": 1532709188974,
+            "contentHash": "bf6b3223e81baf11156f574c49b181768fe7c596"
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1532709188939,
+            "changeTime": 1532709188939,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+        }
+    ],
+    [
+        "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Beryl8Plus\\SalesforceDXTrainning\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1532709188937,
+            "changeTime": 1532709188937,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ]
+]
